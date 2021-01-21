@@ -1,0 +1,149 @@
+.content{
+ padding-top:600rpx;
+}
+
+.connet{
+  text-align: center;
+  line-height: 80rpx;
+  width:200rpx;
+  height:80rpx;
+margin:0rpx auto;
+  border-radius: 100rpx;
+  color:#333;
+  font-size:33rpx;
+  box-shadow :0rpx 0rpx 10rpx  #30dcfa;
+border:1rpx solid #3aa6ff;
+}
+.bottom{
+
+}
+.bottom .left{
+ float:left;
+ width:150rpx;
+ height:450rpx;
+}
+.left .sound{
+  background: #3aa6ff;
+  color:#fff;
+  font-size: 30rpx;
+  text-align: center;
+  width:120rpx;
+  height:80rpx;
+  line-height: 80rpx;
+  margin:20rpx;
+  margin-top:340rpx;
+  
+  border-radius: 30rpx;
+  box-shadow :0rpx 0rpx 10rpx  #30dcfa;
+border:1rpx solid #3aa6ff;
+}
+.center{
+  width:450rpx;
+  height:450rpx;
+ 
+  float:left;
+  text-align: center;
+}
+.center .center_0{
+  
+  width:80rpx;
+  height:80rpx;
+  position: relative;
+  margin: 185rpx;
+  
+ 
+}
+.center .center0{
+  padding:10rpx;
+width:60rpx;
+height:130rpx;
+color:#fff;
+background: #3aa6ff;
+position: absolute;
+top:-151rpx;
+font-size: 32rpx;
+box-shadow :0rpx 0rpx 10rpx  #30dcfa;
+border:1rpx solid #3aa6ff;
+}
+.center .center1{
+  padding:10rpx;
+  padding-top:50rpx;
+width:60rpx;
+height:90rpx;
+color:#fff;
+background: #3aa6ff;
+position: absolute;
+bottom:-151rpx;
+font-size: 32rpx;
+box-shadow :0rpx 0rpx 10rpx  #30dcfa;
+border:1rpx solid #3aa6ff;
+}
+.center .center2{
+  padding:10rpx;
+  padding-left:20rpx;
+width:120rpx;
+height:60rpx;
+color:#fff;
+background: #3aa6ff;
+position: absolute;
+top:0rpx;
+left:-151rpx;
+font-size: 32rpx;
+line-height: 60rpx;
+letter-spacing: 10rpx;
+text-align: left;
+box-shadow :0rpx 0rpx 10rpx  #30dcfa;
+border:1rpx solid #3aa6ff;
+}
+.center .center3{
+  padding:10rpx;
+width:130rpx;
+height:60rpx;
+color:#fff;
+background: #3aa6ff;
+position: absolute;
+top:0rpx;
+right:-151rpx;
+font-size: 32rpx;
+line-height: 60rpx;
+letter-spacing: 10rpx;
+text-align: right;
+box-shadow :0rpx 0rpx 10rpx  #30dcfa;
+border:1rpx solid #3aa6ff;
+}
+.center .center4{
+  padding:10rpx;
+width:60rpx;
+height:60rpx;
+color:#000;
+background: #fff;
+position: absolute;
+top:0rpx;
+right:0rpx;
+font-size: 25rpx;
+line-height: 30rpx;
+letter-spacing: 2rpx;
+text-align: center;
+
+}
+.right{
+  float:left;
+ width:150rpx;
+ height:450rpx;
+}
+.right .stop{
+    background: #3aa6ff;
+  color:#fff;
+  font-size: 30rpx;
+  text-align: center;
+  width:120rpx;
+  height:80rpx;
+  line-height: 80rpx;
+  margin:20rpx;
+  margin-left:10rpx;
+  margin-top:340rpx;
+  
+  border-radius: 30rpx;
+  box-shadow :0rpx 0rpx 10rpx  #30dcfa;
+border:1rpx solid #3aa6ff;
+}

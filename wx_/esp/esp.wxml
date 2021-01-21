@@ -1,0 +1,33 @@
+<!--<form bindsubmit='send_submit'>
+<input name='send_txt'/>
+<button form-type='submit'  type='primary'>发送</button>
+</form>-->
+
+<view class="content">
+<block wx:if="{{ifConnet}}">
+<view class="bottom">
+<view class="left">
+<view class="sound" style="{{'background:'+background.sound}}" bindtouchstart='sound_start' bindtouchend='sound_end' data-index='0'>喇叭</view>
+</view>
+<view class="center">
+<view class="center_0">
+<view class="center0" style="{{'background:'+background.center0}}" bindtouchstart='sound_start' bindtouchend='sound_end' data-index='2'>加速</view>
+<view class="center1" style="{{'background:'+background.center1}}" bindtouchstart='sound_start' bindtouchend='sound_end' data-index='3'>减速</view>
+<view class="center2" style="{{'background:'+background.center2}}" bindtouchstart='sound_start' bindtouchend='sound_end' data-index='4'>偏左</view>
+<view class="center3" style="{{'background:'+background.center3}}" bindtouchstart='sound_start' bindtouchend='sound_end' data-index='5'>偏右</view>
+<view class="center4">{{status}}</view>
+</view>
+</view>
+<view class="right">
+<view class="stop" style="{{'background:'+background.stop}}" bindtouchstart='sound_start' bindtouchend='sound_end' data-index='1'>停止</view>
+</view>
+
+</view>
+</block>
+
+<block wx:else>
+<view class="connet" bindtap='conneting'>点我连接</view>
+</block>
+
+
+</view>

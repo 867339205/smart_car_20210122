@@ -1,0 +1,116 @@
+hw_random.o: \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/esp32/hw_random.c \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/stdint.h \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/machine/_default_types.h \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/sys/features.h \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/sys/_intsup.h \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/string.h \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/_ansi.h \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/newlib.h \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/sys/config.h \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/machine/ieeefp.h \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/esp32/include/xtensa/config/core-isa.h \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/sys/reent.h \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/_ansi.h \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/sys/_types.h \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/machine/_types.h \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/sys/lock.h \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/sys/cdefs.h \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/sys/string.h \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/esp32/include/esp_attr.h \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/esp32/include/soc/wdev_reg.h \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/esp32/include/soc/soc.h \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
+ /home/aithinker/project/esp-idf/examples/bluetooth/gatt_server/build/include/sdkconfig.h \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/freertos/include/freertos/xtensa_config.h \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/esp32/include/xtensa/hal.h \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/esp32/include/xtensa/config/core.h \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/esp32/include/xtensa/xtensa-versions.h \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/esp32/include/xtensa/config/core-matmap.h \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/esp32/include/xtensa/config/tie.h \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/esp32/include/xtensa/config/system.h \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/freertos/include/freertos/xtensa_context.h \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/esp32/include/xtensa/corebits.h \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/esp32/include/xtensa/xtruntime-frames.h \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/stdlib.h \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/machine/stdlib.h \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/alloca.h \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/esp32/include/rom/ets_sys.h \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/esp32/include/soc/soc.h \
+ /cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/esp32/include/xtensa/core-macros.h
+
+/cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/stdint.h:
+
+/cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/machine/_default_types.h:
+
+/cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/sys/features.h:
+
+/cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/sys/_intsup.h:
+
+/cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/string.h:
+
+/cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/_ansi.h:
+
+/cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/newlib.h:
+
+/cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/sys/config.h:
+
+/cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/machine/ieeefp.h:
+
+/cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/esp32/include/xtensa/config/core-isa.h:
+
+/cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/sys/reent.h:
+
+/cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/_ansi.h:
+
+/cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/sys/_types.h:
+
+/cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/machine/_types.h:
+
+/cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/sys/lock.h:
+
+/cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/sys/cdefs.h:
+
+/cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/sys/string.h:
+
+/cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/esp32/include/esp_attr.h:
+
+/cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/esp32/include/soc/wdev_reg.h:
+
+/cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/esp32/include/soc/soc.h:
+
+/cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h:
+
+/home/aithinker/project/esp-idf/examples/bluetooth/gatt_server/build/include/sdkconfig.h:
+
+/cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/freertos/include/freertos/xtensa_config.h:
+
+/cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/esp32/include/xtensa/hal.h:
+
+/cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/esp32/include/xtensa/config/core.h:
+
+/cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/esp32/include/xtensa/xtensa-versions.h:
+
+/cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/esp32/include/xtensa/config/core-matmap.h:
+
+/cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/esp32/include/xtensa/config/tie.h:
+
+/cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/esp32/include/xtensa/config/system.h:
+
+/cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/freertos/include/freertos/xtensa_context.h:
+
+/cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/esp32/include/xtensa/corebits.h:
+
+/cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/esp32/include/xtensa/xtruntime-frames.h:
+
+/cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/stdlib.h:
+
+/cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/machine/stdlib.h:
+
+/cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/newlib/include/alloca.h:
+
+/cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/esp32/include/rom/ets_sys.h:
+
+/cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/esp32/include/soc/soc.h:
+
+/cygdrive/e/AiThinkerIDE_V0.5/cygwin/home/aithinker/project/esp-idf/components/esp32/include/xtensa/core-macros.h:

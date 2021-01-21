@@ -1,0 +1,7 @@
+core:内核代码
+lib:官网api
+obj:项目生成目录
+user:用户代码目录
+ucosii:ucos系统
+system:系统级函数或者进程
+drives:自己写的硬件驱动
